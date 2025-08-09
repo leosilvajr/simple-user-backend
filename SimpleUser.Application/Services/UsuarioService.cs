@@ -15,7 +15,8 @@ namespace SimpleUser.Application.Services
 
         public async Task<IEnumerable<Usuario>> GetAllAsync()
         {
-            return await _usuarioRepository.GetAllAsync();
+            var list = await _usuarioRepository.GetAllAsync();
+            return list.OrderBy( comparer => comparer.Nome );
         }
 
         public async Task<Usuario> GetByIdAsync(int id)

@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Leonardo\\Desktop\\simple-user\\simple-user-backend\\",
+  "WorkspaceRootPath": "C:\\Git\\simple-user-backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{27772204-AAF9-4593-A317-D70C162E40C1}|SimpleUser.API\\SimpleUser.API.csproj|c:\\users\\leonardo\\desktop\\simple-user\\simple-user-backend\\simpleuser.api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27772204-AAF9-4593-A317-D70C162E40C1}|SimpleUser.API\\SimpleUser.API.csproj|solutionrelative:simpleuser.api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{77D25CC8-8F05-4ED9-ADAC-F52D0B45B5F1}|SimpleUser.Application\\SimpleUser.Application.csproj|c:\\git\\simple-user-backend\\simpleuser.application\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D25CC8-8F05-4ED9-ADAC-F52D0B45B5F1}|SimpleUser.Application\\SimpleUser.Application.csproj|solutionrelative:simpleuser.application\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27772204-AAF9-4593-A317-D70C162E40C1}|SimpleUser.API\\SimpleUser.API.csproj|c:\\users\\leonardo\\desktop\\simple-user\\simple-user-backend\\simpleuser.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27772204-AAF9-4593-A317-D70C162E40C1}|SimpleUser.API\\SimpleUser.API.csproj|solutionrelative:simpleuser.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2ED270AF-54C4-4C24-AE37-971F63E39411}|SimpleUser.Infrastructure\\SimpleUser.Infrastructure.csproj|c:\\git\\simple-user-backend\\simpleuser.infrastructure\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED270AF-54C4-4C24-AE37-971F63E39411}|SimpleUser.Infrastructure\\SimpleUser.Infrastructure.csproj|solutionrelative:simpleuser.infrastructure\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,27 +39,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Users\\Leonardo\\Desktop\\simple-user\\simple-user-backend\\SimpleUser.API\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "SimpleUser.API\\Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\Users\\Leonardo\\Desktop\\simple-user\\simple-user-backend\\SimpleUser.API\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "SimpleUser.API\\Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAswDsAAAA3AAAAAAAAAA==",
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Git\\simple-user-backend\\SimpleUser.Application\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "SimpleUser.Application\\Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Git\\simple-user-backend\\SimpleUser.Application\\Services\\UsuarioService.cs*",
+              "RelativeToolTip": "SimpleUser.Application\\Services\\UsuarioService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBIAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T02:30:12.777Z",
+              "WhenOpened": "2025-08-09T12:25:23.397Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Leonardo\\Desktop\\simple-user\\simple-user-backend\\SimpleUser.API\\Program.cs",
-              "RelativeDocumentMoniker": "SimpleUser.API\\Program.cs",
-              "ToolTip": "C:\\Users\\Leonardo\\Desktop\\simple-user\\simple-user-backend\\SimpleUser.API\\Program.cs",
-              "RelativeToolTip": "SimpleUser.API\\Program.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAuwEUAAAAAAAAAAAAAAA==",
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Git\\simple-user-backend\\SimpleUser.Infrastructure\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "SimpleUser.Infrastructure\\Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Git\\simple-user-backend\\SimpleUser.Infrastructure\\Repositories\\UsuarioRepository.cs*",
+              "RelativeToolTip": "SimpleUser.Infrastructure\\Repositories\\UsuarioRepository.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCIAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T02:28:03.937Z"
+              "WhenOpened": "2025-08-09T12:24:56.301Z",
+              "EditorCaption": ""
             }
           ]
         },
